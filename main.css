@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  text-align: center;
+  margin-top: 3rem;
+  background-color: cadetblue;
+}
+
+h1 {
+  font-family: "Zilla Slab Highlight", serif;
+}
+
+h2 {
+  margin: 1rem 0;
+  font-family: "Shadows Into Light", sans-serif;
+}
+
+#button {
+  width: 40%;
+  padding: 0.5rem 1rem;
+  margin: 2rem;
+  cursor: pointer;
+}
+
+article {
+  font-size: 1.25rem;
+  font-family: "Shadows Into Light", sans-serif;
+}
